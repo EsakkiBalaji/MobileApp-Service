@@ -1,4 +1,5 @@
-It is a Simple Mobile App Service Website using HTML and CSS.
-Explore the Project 
+It is a Simple Mobile App Service Website Using HTML and CSS.
 
-# MobileApp-Service
+Explore this project at
+
+# https://esakkibalaji.github.io/MobileApp-Service/
